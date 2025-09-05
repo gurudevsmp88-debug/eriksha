@@ -1,0 +1,2 @@
+# eriksha
+setting up git
